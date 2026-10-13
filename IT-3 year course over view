@@ -1,0 +1,64 @@
+BTEC IT Units – Learning Portfolio
+This repository documents the IT topics I have studied as part of my BTEC IT course. Each section explains what the unit covers and the skills or knowledge I have developed.
+
+Unit 01 – The Online World
+This unit covers how people use the internet and online services. 
+It includes understanding websites, online communication, digital services, and how information moves around the online world. 
+It also introduces safe and responsible use of the internet, including awareness of online risks.
+
+Unit 02 – Technology Systems
+This unit looks at the main parts of computer systems and how they work together. 
+It covers hardware, software, input and output devices, storage, and the role of different components. 
+It helps build an understanding of how a computer system processes information and how its parts support users.
+
+Unit 03 – A Digital Portfolio
+This unit focuses on creating a digital portfolio to present work and information. 
+It involves organising content clearly, choosing suitable layouts, and using digital tools to show skills and completed projects. 
+My website-development practice also includes using HTML and CSS, building navigation between pages, and testing pages in Visual Studio Code with Live Server.
+
+Unit 09 – Spreadsheet Development
+This unit covers creating and using spreadsheets to organise, calculate, and present data. 
+It includes working with rows and columns, using formulas and functions, formatting cells, and presenting information so it is easy to understand. 
+Spreadsheets can be used to solve problems, track information, and support decisions.
+
+Unit 10 – Database Development
+This unit introduces databases and how they are used to store and manage information. 
+It covers organising data into tables, using fields and records, creating relationships between data, and retrieving information with queries. 
+A well-designed database helps keep information organised, accurate, and easier to search.
+
+Unit 11 – Computer Networks
+This unit covers how computers and other devices connect and communicate. 
+It includes network types, network devices, communication methods, protocols, and the reasons organisations use networks to share data and resources.
+It also introduces network reliability and security, including the importance of protecting information as it travels between devices.
+
+Unit 16 – Automated Computer Systems
+This unit looks at systems that carry out tasks automatically with limited direct human input. 
+It includes understanding inputs, processes, and outputs, as well as the use of sensors and control systems. 
+Automated systems are used in areas such as manufacturing, monitoring, and everyday technology.
+
+Unit 22 – Computer Security in Practice
+This unit focuses on practical computer security and ways to protect systems and information. 
+It includes identifying threats and vulnerabilities, understanding risks, and considering protective measures such as access controls, strong authentication, firewalls, updates, and data protection. 
+It also highlights the importance of choosing security measures that suit the system and its users.
+
+Skills and tools connected to my IT studies
+- Web development: HTML, CSS, basic JavaScript concepts, page structure, styling, and navigation.
+- Digital portfolio development: organising and presenting coursework and projects.
+- Data handling: spreadsheets, formulas, tables, and database concepts.
+- Computer systems: understanding hardware, software, input/output, and storage.
+- Networking: network concepts, devices, protocols, and basic security awareness.
+- Cybersecurity: recognising threats, vulnerabilities, and ways to reduce risk.
+- Tools: Visual Studio Code and Live Server for building and testing web pages.
+
+Grades recorded
+Unit title	Recorded result
+01	The Online World	PL1
+02	Technology Systems	P
+03	A Digital Portfolio	D
+09	Spreadsheet Development	P
+10	Database Development	P
+11	Computer Networks	D
+16	Automated Computer Systems D
+22	Computer Security in Practice D
+
+I use this repository to document my IT learning, keep my coursework and notes organised, and show the knowledge and practical skills I am building as I progress through my studies
