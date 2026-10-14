@@ -1,1 +1,51 @@
+A digital portfolio is a website or digital collection of work that shows your IT skills, knowledge, projects and achievements. In Level 2 IT, you learn how to create a portfolio that presents information professionally and allows other people to view your work.
+For example, you could create a website showing your IT assignments, web development projects, Python programs and cybersecurity learning. For example this Github repository is an example of a digital portfolio.
 
+What do you learn in a digital portfolio unit?
+
+A. Planning a digital portfolio
+Before building your portfolio, you need to understand its purpose and audience.
+- Purpose: Why are you creating the portfolio? For example, to show your IT skills to employers.
+- Audience: Who will view it? For example, teachers, employers or apprenticeship recruiters.
+- Content: What information will you include, such as projects, skills and achievements?
+- Design: How will you organise the pages, colours, text and images?
+
+B. Creating a website
+You may use website-building software or coding tools to create your portfolio. Depending on the course requirements, this can include:
+- HTML to create the structure of a webpage.
+- CSS to style the website, including colours, layouts and fonts.
+- Images, icons and other media to make the website more engaging.
+- Navigation links so visitors can move between pages.
+- Multiple pages, such as Home, About Me, Projects and Contact.
+
+C. Making the portfolio professional
+A good portfolio should be easy to navigate, readable and consistent.
+You should consider:
+- Usability: Can visitors find the information they need?
+- Accessibility: Can people with different needs use the website?
+- Consistency: Do the pages use a similar design?
+- Testing: Do the links, images and pages work correctly?
+- Improvements: Can you identify and fix problems after testing?
+D. Evaluating your work
+
+You may need to explain how well your portfolio meets its original requirements. You should identify what went well, what could be improved and how feedback or testing influenced your decisions.
+For example, if a navigation menu does not work on a smaller screen, you could improve the layout and test it again.
+
+A digital portfolio website might hold information like:
+- Home page
+- About me 
+- Projects 
+- Contacts  
+This makes it easier for people to navigate around your website or protfolio.
+
+Area	               What you need to demonstrate
+
+Planning	           You understand the purpose, audience and requirements.
+Design	             You create a suitable layout and plan the content.
+Development	         You build the portfolio using appropriate tools.
+Testing	             You check functionality, navigation and presentation.
+Evaluation	         You explain strengths, weaknesses and possible improvements.
+
+At Level 2, you generally develop the foundations of creating and presenting digital work. At Level 3, you can build on those skills with more complex websites, better design practices, stronger documentation and more advanced functionality.
+For example, a portfolio that begins with a few HTML pages could eventually include CSS animations, responsive layouts, JavaScript features and a dedicated projects section.
+This is especially useful if you want to apply for IT apprenticeships or junior web development roles, because you can show employers practical evidence of what you can do.
