@@ -1,1 +1,74 @@
+IT Level 2: Automated Computer Systems
+
+An automated computer system is a system that uses computers, software and sometimes sensors or other devices to carry out tasks automatically, with little or no human involvement during the process.
+Instead of a person doing every step manually, the system follows programmed instructions to complete a task.
+For example, a supermarket self-checkout uses software and scanners to identify products, calculate the total price and process payment.
+
+Automated computer systems usually follow this structure  
+Input -> Proccess -> Output
+
+-Input 
+The computer allows the user to input data based on their needs or requierments for example a Point of service system commonly used in stores or restuarunts,
+the user inputs their order and is allowed to browser throught the menu to order their food  
+
+-Proccess 
+The compuer system reads the input and identifies what has been orders, or the requierments set by the user, the computer then identifies it and proccesses it by its logical thinking
+
+-Output
+This is the final stage from the automated computer systems, this means that what ever has been put in from the input, and has been thought about from the computer is then shown on the screen, 
+It could be order confirmed or Payement declined
+
+-Expamples of automated systems
+
+-Manufacturing systems
+Robots can assemble products, weld materials and package goods automatically.
+Benefit: faster and more consistent production.
+
+-Household systems
+Washing machines automatically control water levels, temperature and washing cycles.
+Benefit: saves time and reduces manual effort.
+
+-Retail systems
+Barcode scanners and tills identify products, calculate prices and update stock records.
+Benefit: quicker transactions and more accurate stock tracking.
+
+-Heating and environmental control
+A thermostat measures temperature and signals a heating system to switch on or off.
+Benefit: maintains a desired temperature and can reduce wasted energy.
+
+-Open-loops and closed-loops systems
+
+Open-loop system
+The system performs an action without using feedback to check whether the intended result was achieved.
+Input → Controller → Action
+Example: A basic timed garden sprinkler runs for ten minutes and stops, regardless of how wet the soil becomes.
+
+Closed-loop system
+The system uses feedback to check the result and adjust its actions.
+Input → Controller → Action → Feedback ↻
+Example: A thermostat measures room temperature and switches heating on or off to maintain the desired temperature.
+
+-What happens when an automated system fails?
+Imagine a factory's automated production line stops because a sensor is faulty. Products may no longer be assembled, employees may be unable to continue their work, and the company could lose money while the system is repaired.
+This is why automated systems need testing, maintenance, security controls and backup procedures.
+
+-Automation and cybersecurity
+Automated computer systems can be vulnerable to cyberattacks, particularly when connected to a network or the internet.
+Common risks include:
+- Unauthorised access: Someone gains control of the system without permission.
+- Malware: Malicious software disrupts the system or steals information.
+- Network attacks: An attacker interferes with communications between devices.
+- Sensor manipulation: False readings cause the system to make incorrect decisions.
+- System failure: A software error or hardware fault interrupts normal operation.
+Organisations can reduce these risks by using strong authentication, restricting user permissions, updating software, monitoring network activity and maintaining safe manual override procedures where appropriate.
+
+-How to answer an IT Level 2 exam question
+A question might ask:
+Explain one advantage and one disadvantage of using an automated system in a factory.
+
+A good answer would be:
+Advantage: An automated system can manufacture products faster than a person performing the same repetitive task manually. This increases productivity and allows the factory to produce more goods in less time.
+Disadvantage: Automated machinery can be expensive to install and maintain. If the system breaks down, production may stop until a technician repairs it, causing delays and financial losses.
+Notice that each point is explained rather than simply listed.
+
 
