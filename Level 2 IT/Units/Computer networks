@@ -1,1 +1,128 @@
+IT Level 2: Network Systems
+
+A network system is a group of computers, servers and other devices connected together so they can communicate and share information, resources and services.
+For example, in a college, computers may connect to the same network to access the internet, save work to shared storage, print documents and use college software.
+
+-What is a computer network used for?
+Network systems allow devices to exchange data and share resources rather than operating independently.
+Common uses include:
+- File sharing: Users can access documents stored on a shared server.
+- Internet access: Multiple devices can connect to the internet through a network.
+- Communication: Users can send emails, messages and video calls.
+- Resource sharing: Several computers can use the same network printer.
+- Centralised management: IT administrators can manage user accounts, permissions and security policies.
+- Data backup: Files can be backed up to central storage or a network server.
+For example, at a business, an employee could log in to their computer, access shared company files and print a document using a network printer.
+
+Types of networks
+There are several types of network systems you should understand.
+
+LAN — Local Area Network
+Connects devices within a limited area, such as a home, school, office or college.
+Example: Computers connected across a college building.
+
+WAN — Wide Area Network
+Connects networks across large geographical areas, potentially between cities or countries.
+Example: A company connecting its Liverpool and London offices.
+
+WLAN — Wireless Local Area Network
+A LAN that uses wireless communication, usually Wi-Fi, to connect devices.
+Example: Laptops connecting to college Wi-Fi.
+
+-Wired network
+Devices communicate using physical network cables, commonly Ethernet cables.
+Example: Desktop PCs connected to a network switch.
+
+Network hardware
+Network hardware is the physical equipment that allows devices to communicate.
+
+Router
+Connects different networks together and forwards data between them. A home router typically connects your home network to the internet.
+
+Switch
+Connects devices within a LAN and forwards Ethernet frames to the appropriate port using MAC addresses.
+
+Server
+Provides services or resources to other computers, known as clients. Examples include file servers, web servers and authentication servers.
+
+NIC — Network Interface Card
+Allows a computer or device to connect to a network, either through Ethernet or wireless networking hardware.
+
+Ethernet cable
+Carries network data between wired devices, commonly connecting computers to switches or routers.
+
+-How devices communicate across a network
+
+To understand networking properly, you need to learn how data gets from one device to another.
+Your computer creates or requests data
+
+Network switch or Wi-Fi access point
+Connects your device to the local network
+
+Router
+Forwards traffic to other networks when needed
+
+Destination server
+Receives the request and sends a response
+
+This is a simplified example. The exact route depends on where the destination is and how the network is configured. Devices on the same local network may communicate without sending their traffic through the router.
+
+
+-Important networking terms you should try to remember!
+IP address - A logical address used to identify and route traffic to a network interface.
+
+MAC address - A link-layer address used to identify a network interface on a local network.
+
+DNS - Translates domain names, such as example.com, into IP addresses when needed.
+
+DHCP - Automatically provides devices with network configuration, often including an IP address, gateway and DNS server.
+
+TCP - Provides reliable, ordered delivery of data between applications.
+
+UDP	- Sends data without TCP's delivery and ordering guarantees; useful for various real-time and other applications.
+
+Port - Identifies a service or application endpoint on a device.
+
+Protocol - A set of rules that devices follow when communicating.
+
+- Networking Topologies
+
+-Star topology
+Each device connects to a central switch or access point.
+Advantage: One device's cable failure usually does not affect the others.
+Disadvantage: If the central switch fails, connected devices may lose network connectivity.
+
+-Bus topology
+Devices share a main communication cable.
+Advantage: Historically, it could be inexpensive and use less cable.
+Disadvantage: A fault in the backbone can disrupt the network. It is rarely used for modern office Ethernet LANs.
+
+-Mesh topology
+Devices or network nodes have multiple connections to one another.
+Advantage: Alternative paths can maintain connectivity if a link fails.
+Disadvantage: It can require more equipment, cabling and configuration.
+
+-Networking security
+
+Network systems must be protected against unauthorised access, malware, data theft and service disruption.
+Common security measures include:
+- Firewalls: Filter network traffic according to security rules.
+- Strong authentication: Help ensure users are who they claim to be.
+- Access permissions: Restrict which files and services each user can access.
+- Encryption: Protects data from being read by unauthorised parties.
+- Updates and patches: Fix known software vulnerabilities.
+- Network monitoring: Helps identify unusual traffic and possible attacks.
+- Backups: Allow data to be recovered after certain failures or incidents.
+
+ipconfig -  displays network configuration.
+
+ping tests -  reachability, although a failed response does not always mean the device is offline.
+
+nslookup - checks DNS resolution.
+
+tracert - helps show the network route towards a destination.
+
+
+
+
 
