@@ -1,1 +1,91 @@
+-Spreadsheet Development – Level 2 IT
 
+-Overview
+This section of my GitHub portfolio covers spreadsheet development and how spreadsheets are used to organise, calculate, analyse and present data. It explains how spreadsheet software can help individuals and businesses manage information, perform calculations and make decisions.
+
+-What Is a Spreadsheet?
+A spreadsheet is a computer application that organises information into rows and columns. It allows users to enter data, perform calculations, apply formatting and create charts.
+
+Spreadsheets are commonly used in businesses, schools and other organisations to manage budgets, track expenses, record results and analyse information.
+
+Examples of spreadsheet software include Microsoft Excel and Google Sheets.
+
+-Rows, Columns and Cells
+Spreadsheets are made up of rows, columns and cells.
+
+- **Rows:** Run horizontally across a spreadsheet and are identified by numbers.
+- **Columns:** Run vertically and are identified by letters.
+- **Cells:** Individual boxes where data is entered. Each cell has a reference, such as A1 or B5.
+
+For example, cell A1 refers to the cell in column A and row 1.
+
+-Data Types
+Spreadsheets can store different types of information, including:
+
+-Text: Names, descriptions and labels.
+-Numbers: Values used for calculations.
+-Dates and times: Information used to record when events happen.
+-Currency: Financial values, such as prices and expenses.
+-Formulas: Expressions used to calculate results from other cells.
+
+Choosing the correct data type helps make a spreadsheet accurate and easier to use.
+
+## Formulas and Functions
+Formulas and functions allow spreadsheets to perform calculations automatically.
+
+A formula is an expression entered into a cell to calculate a result. Formulas usually begin with an equals sign (`=`).
+
+Examples include:
+
+- `=A1+B1` adds the values in cells A1 and B1.
+- `=A1-B1` subtracts the value in B1 from A1.
+- `=A1*B1` multiplies the values in A1 and B1.
+- `=A1/B1` divides the value in A1 by B1.
+
+Common spreadsheet functions include:
+
+-SUM: Adds a range of values, for example `=SUM(B2:B10)`.
+-AVERAGE: Calculates the mean of a range, for example `=AVERAGE(B2:B10)`.
+-MAX: Finds the highest value in a range.
+-MIN: Finds the lowest value in a range.
+-COUNT: Counts cells containing numbers.
+
+These features save time and reduce the need to perform calculations manually.
+
+-Formatting and Presentation
+Formatting improves the appearance and readability of a spreadsheet. It can make important information easier to identify and understand.
+
+Examples of formatting include bold headings, changing font sizes, adjusting column widths, applying borders, using currency formats and highlighting important values.
+
+Conditional formatting can automatically change the appearance of cells when they meet certain conditions, such as highlighting low marks or expenses above a set limit.
+
+-Charts and Data Analysis
+Charts present spreadsheet data visually, making it easier to identify patterns, compare values and understand results.
+
+Common chart types include:
+
+-Bar and column charts: Compare values across different categories.
+-Line charts: Show changes over time.
+-Pie charts: Show how categories contribute to a whole.
+
+Sorting and filtering can also help users organise data and find specific information quickly.
+
+-Spreadsheet Accuracy and Testing
+Spreadsheets need to be checked to make sure that calculations and results are correct. Incorrect formulas or data entry can lead to unreliable results.
+
+Testing methods include checking formulas, comparing results with manual calculations, checking that cell references are correct and entering different values to see whether the spreadsheet updates as expected.
+
+Data validation can also restrict the information users enter, helping to reduce mistakes.
+
+-The Importance of Spreadsheets
+Spreadsheets are useful because they help organisations manage information, calculate costs, monitor performance and produce reports. They can also improve efficiency by automatically updating calculations when the input data changes.
+
+However, poorly designed spreadsheets can contain errors, duplicate information or expose confidential data. It is important to check calculations, protect sensitive information and keep backups.
+
+-My Learning and Development
+Through my Level 2 IT studies, I am developing an understanding of how spreadsheets are created and used to organise data, perform calculations and present information clearly.
+
+I am learning about spreadsheet structure, formulas, functions, formatting, charts and the importance of testing calculations for accuracy. I intend to build on this knowledge as I progress through Level 3 IT and develop more advanced spreadsheet and data-analysis skills.
+
+-Conclusion
+Spreadsheet development is an important IT skill because it allows users to organise
